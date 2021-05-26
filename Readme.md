@@ -1,17 +1,17 @@
 
 # Table of Index
 -------------------------------
-#### Linux
+#### [Linux](https://github.com/snehalraut97/missingskill-learning/blob/master/linux.md)
 * History of Linux
 * Linux commands 
 * File system and Directory structure in Linux 
 
-#### Git
+#### [Git](https://github.com/snehalraut97/missingskill-learning/blob/master/git.md)
 * Git Features
 * Git commands
 * Distributed version control system 
 
-#### Basic building blocks and web application development
+#### [Basic building blocks and web application development](https://github.com/snehalraut97/missingskill-learning/blob/master/web.md)
 * IP Address 
 * Port 
 * Web Port (HTTP and HTTPS)
@@ -27,7 +27,7 @@
 * Code Repository
 
 
-#### JavaScript
+#### [JavaScript](https://github.com/snehalraut97/missingskill-learning/blob/master/javaScrip.md)
 
 * History of JavaScript
 * JavaScript Variables
